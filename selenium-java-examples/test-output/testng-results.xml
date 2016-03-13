@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="15706" started-at="2016-03-11T13:14:03Z" finished-at="2016-03-11T13:14:19Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="15706" started-at="2016-03-11T13:14:03Z" finished-at="2016-03-11T13:14:19Z">
+      <class name="com.example.SshotofElement">
+        <test-method status="PASS" signature="screenShotElement()[pri:0, instance:com.example.SshotofElement@6a5fc7f7]" name="screenShotElement" duration-ms="15682" started-at="2016-03-11T18:44:03Z" finished-at="2016-03-11T18:44:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- screenShotElement -->
+      </class> <!-- com.example.SshotofElement -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
