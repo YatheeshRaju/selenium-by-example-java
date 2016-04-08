@@ -53,5 +53,6 @@
 	<classpathentry kind="lib" path="/home/yatheesh/Documents/Softs/Automation/selenium-2.52.0/libs/xalan-2.7.2.jar"/>
 	<classpathentry kind="lib" path="/home/yatheesh/Documents/Softs/Automation/selenium-2.52.0/libs/xercesImpl-2.11.0.jar"/>
 	<classpathentry kind="lib" path="/home/yatheesh/Documents/Softs/Automation/selenium-2.52.0/libs/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="lib" path="/home/yatheesh/Documents/Softs/Java/MonteMediaCC/dist/monte-cc.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="30209" started-at="2016-03-13T03:51:21Z" finished-at="2016-03-13T03:51:52Z">
+  <suite name="Default suite" duration-ms="44431" started-at="2016-04-02T12:58:54Z" finished-at="2016-04-02T12:59:38Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="30209" started-at="2016-03-13T03:51:21Z" finished-at="2016-03-13T03:51:52Z">
-      <class name="com.example.SetBrowserWindowSize">
-        <test-method status="PASS" signature="setBrowserWindowSize()[pri:0, instance:com.example.SetBrowserWindowSize@6a5fc7f7]" name="setBrowserWindowSize" duration-ms="30185" started-at="2016-03-13T09:21:21Z" finished-at="2016-03-13T09:21:52Z">
+    <test name="Default test" duration-ms="44431" started-at="2016-04-02T12:58:54Z" finished-at="2016-04-02T12:59:38Z">
+      <class name="com.example.ExplicitWaitDemo">
+        <test-method status="PASS" signature="explicitWaitDeom()[pri:0, instance:com.example.ExplicitWaitDemo@5594a1b5]" name="explicitWaitDeom" duration-ms="44409" started-at="2016-04-02T18:28:54Z" finished-at="2016-04-02T18:29:38Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- setBrowserWindowSize -->
-      </class> <!-- com.example.SetBrowserWindowSize -->
+        </test-method> <!-- explicitWaitDeom -->
+      </class> <!-- com.example.ExplicitWaitDemo -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
