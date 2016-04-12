@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="44431" started-at="2016-04-02T12:58:54Z" finished-at="2016-04-02T12:59:38Z">
+  <suite name="Default suite" duration-ms="43162" started-at="2016-04-12T19:27:06Z" finished-at="2016-04-12T19:27:49Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="44431" started-at="2016-04-02T12:58:54Z" finished-at="2016-04-02T12:59:38Z">
-      <class name="com.example.ExplicitWaitDemo">
-        <test-method status="PASS" signature="explicitWaitDeom()[pri:0, instance:com.example.ExplicitWaitDemo@5594a1b5]" name="explicitWaitDeom" duration-ms="44409" started-at="2016-04-02T18:28:54Z" finished-at="2016-04-02T18:29:38Z">
+    <test name="Default test" duration-ms="43162" started-at="2016-04-12T19:27:06Z" finished-at="2016-04-12T19:27:49Z">
+      <class name="com.example.LocatorsDemo">
+        <test-method status="PASS" signature="locatorsDemo()[pri:0, instance:com.example.LocatorsDemo@48140564]" name="locatorsDemo" duration-ms="43126" started-at="2016-04-13T00:57:06Z" finished-at="2016-04-13T00:57:49Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- explicitWaitDeom -->
-      </class> <!-- com.example.ExplicitWaitDemo -->
+        </test-method> <!-- locatorsDemo -->
+      </class> <!-- com.example.LocatorsDemo -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
