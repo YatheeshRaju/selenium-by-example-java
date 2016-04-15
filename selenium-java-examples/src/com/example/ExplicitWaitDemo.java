@@ -24,6 +24,7 @@ public class ExplicitWaitDemo {
 		driver.manage().window().maximize(); 
 		//Close the browser
 		driver.close();
+		//
 	}
 
 }
